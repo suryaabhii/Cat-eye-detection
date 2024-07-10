@@ -51,6 +51,7 @@ if __name__ == "__main__":
 
 # Note
 1.The script uses the Haar Cascade classifier provided by OpenCV, which is pre-trained for general eye detection
+
 2.The above respositry contains two codes i.e One for Normal Python Script(.py script), which can used for IDE's like VS Code etc. and the other for Juypter Notebook(.ipynb script), which can be used for IDE's like Google Colab etc. 
 
 # Refernce
