@@ -47,6 +47,7 @@ if __name__ == "__main__":
 
 # Assumptions
 1.The input image is a cat's face where the eyes are clearly visible.
+
 2.The image format is supported by OpenCV (e.g., JPEG, PNG).
 
 # Note
