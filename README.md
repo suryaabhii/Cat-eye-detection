@@ -55,5 +55,5 @@ if __name__ == "__main__":
 
 2.The above respositry contains two codes i.e One for Normal Python Script(.py script), which can used for IDE's like VS Code etc. and the other for Juypter Notebook(.ipynb script), which can be used for IDE's like Google Colab etc. 
 
-# Refernce
+# Reference
 OpenCV Documentation (https://docs.opencv.org)
